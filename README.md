@@ -1,5 +1,5 @@
 # DeepLearning
-See the worked code at Deep_Learning_Recommender_Worked.ipynb
+See the worked code at Deep_Learning_Recommender_Worked.ipynb or run it using google collab with this link https://colab.research.google.com/drive/13b_RCswr4jm7KuTVzBCtt8b5xtOgBNxK?usp=sharing 
 
 Dataset that used :
 1. https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data 
